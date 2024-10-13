@@ -49,7 +49,7 @@ _See below to learn more about the `extract()` method_
 ## Creating a new TAR ball
 ---
 
-To quickly create a new tarball, you can use the `compress()` helper function in the library like this,=L
+To quickly create a new tarball, you can use the `compress()` helper function in the library like this:
 
 ```
 import tar
